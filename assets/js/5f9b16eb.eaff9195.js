@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkweb_docs=self.webpackChunkweb_docs||[]).push([[1319],{109:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/https://jupiterdna.github.io/RNDNA-Packages/blog/tags/facebook","allTagsPath":"/https://jupiterdna.github.io/RNDNA-Packages/blog/tags","count":1,"unlisted":false}')}}]);

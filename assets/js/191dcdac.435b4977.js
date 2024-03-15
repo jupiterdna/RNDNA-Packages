@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkweb_docs=self.webpackChunkweb_docs||[]).push([[7039],{4962:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/https://jupiterdna.github.io/RNDNA-Packages/blog/tags/docusaurus","allTagsPath":"/https://jupiterdna.github.io/RNDNA-Packages/blog/tags","count":4,"unlisted":false}')}}]);
